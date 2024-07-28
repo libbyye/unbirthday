@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Immersal SDK/2.0.2/Core Samples/Scenes/SimpleSample.unity
+    guid: dc3a71fba008f4f2899362a3d0c1a3f8
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 656b3d3ae1cbb489fa98dbb8b387ce4e, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 52be6eab7b7e24b17a5445c66be7a520, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f2a68aaaa79b74b9c99c0acad6fd0c0e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7ff002cc2941545e8b4b3e05b39bfc29, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8fc37e79bc2054a3a9c34e4771679eb4, type: 2}
